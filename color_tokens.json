@@ -7,11 +7,11 @@
       },
       "size": {
         "width": {
-          "value": "300px",
+          "value": "auto",
           "type": "sizing"
         },
         "height": {
-          "value": "111px",
+          "value": "40px",
           "type": "sizing"
         }
       },
@@ -30,8 +30,14 @@
         "type": "fontFamilies"
       },
       "font-size": {
-        "value": "25px",
+        "value": "16",
         "type": "fontSizes"
+      },
+      "spacing": {
+        "padding": {
+          "value": "0 20px",
+          "type": "spacing"
+        }
       }
     }
   },
