@@ -1,0 +1,14 @@
+{
+  "global": {
+    "brd": {
+      "value": "bg",
+      "type": "borderRadius"
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global"
+    ]
+  }
+}
