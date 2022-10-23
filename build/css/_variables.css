@@ -1,15 +1,15 @@
 /**
  * Do not edit directly
- * Generated on Sun, 23 Oct 2022 19:44:15 GMT
+ * Generated on Sun, 23 Oct 2022 19:47:51 GMT
  */
 
 :root {
-  --sd-global-style-border-radius: 40px;
+  --sd-global-style-border-radius: 30px;
   --sd-global-style-size-width: auto;
   --sd-global-style-size-height: 40px;
   --sd-global-style-color-bg-color: #4f51ff;
   --sd-global-style-color-font-color: #fff;
   --sd-global-style-font-family: arial, sans-serif;
-  --sd-global-style-font-size: 16;
+  --sd-global-style-font-size: 16px;
   --sd-global-style-spacing-padding: 0 20px;
 }
