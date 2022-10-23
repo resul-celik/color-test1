@@ -1,8 +1,20 @@
 {
   "global": {
-    "brd": {
-      "value": "bg",
-      "type": "borderRadius"
+    "style": {
+      "border-radius": {
+        "value": "8px",
+        "type": "borderRadius"
+      },
+      "size": {
+        "width": {
+          "value": "300px",
+          "type": "sizing"
+        },
+        "height": {
+          "value": "111px",
+          "type": "sizing"
+        }
+      }
     }
   },
   "$themes": [],
