@@ -2,7 +2,7 @@
   "global": {
     "style": {
       "border-radius": {
-        "value": "40px",
+        "value": "30px",
         "type": "borderRadius"
       },
       "size": {
@@ -30,7 +30,7 @@
         "type": "fontFamilies"
       },
       "font-size": {
-        "value": "16",
+        "value": "16px",
         "type": "fontSizes"
       },
       "spacing": {
