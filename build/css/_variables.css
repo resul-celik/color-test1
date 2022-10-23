@@ -1,8 +1,14 @@
 /**
  * Do not edit directly
- * Generated on Sun, 23 Oct 2022 17:59:43 GMT
+ * Generated on Sun, 23 Oct 2022 18:36:12 GMT
  */
 
 :root {
-  --sd-global-brd: bg;
+  --sd-global-style-border-radius: 40px;
+  --sd-global-style-size-width: 300px;
+  --sd-global-style-size-height: 111px;
+  --sd-global-style-color-bg-color: #ff4f70;
+  --sd-global-style-color-font-color: #fff;
+  --sd-global-style-font-family: [object Object];
+  --sd-global-style-font-size: [object Object];
 }
