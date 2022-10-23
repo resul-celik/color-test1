@@ -19,6 +19,26 @@
         "bg-color": {
           "value": "#ff4f70",
           "type": "color"
+        },
+        "font-color": {
+          "value": "#fff",
+          "type": "color"
+        }
+      },
+      "font": {
+        "family": {
+          "value": {
+            "fontFamily": "arial, sans-serif",
+            "fontWeight": "",
+            "fontSize": ""
+          },
+          "type": "typography"
+        },
+        "size": {
+          "value": {
+            "fontSize": "16px"
+          },
+          "type": "typography"
         }
       }
     }
