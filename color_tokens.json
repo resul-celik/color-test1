@@ -25,21 +25,13 @@
           "type": "color"
         }
       },
-      "font": {
-        "family": {
-          "value": {
-            "fontFamily": "arial, sans-serif",
-            "fontWeight": "",
-            "fontSize": ""
-          },
-          "type": "typography"
-        },
-        "size": {
-          "value": {
-            "fontSize": "16px"
-          },
-          "type": "typography"
-        }
+      "font-family": {
+        "value": "arial, sans-serif",
+        "type": "fontFamilies"
+      },
+      "font-size": {
+        "value": "16px",
+        "type": "fontSizes"
       }
     }
   },
