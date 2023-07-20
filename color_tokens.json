@@ -2,7 +2,7 @@
   "global": {
     "style": {
       "border-radius": {
-        "value": "30px",
+        "value": "15px",
         "type": "borderRadius"
       },
       "size": {
@@ -26,7 +26,7 @@
         }
       },
       "font-family": {
-        "value": "arial, sans-serif",
+        "value": "Roboto",
         "type": "fontFamilies"
       },
       "font-size": {
